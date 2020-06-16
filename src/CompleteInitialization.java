@@ -9,7 +9,7 @@ public class CompleteInitialization {
         System.out.println("Health Scale: "+ health);
         System.out.println("Are you ready to power up?: " + powerUp);
         System.out.println("Total Assessment: It has been " + workOutDays + " days since you've started working out");
-        System.out.println("You evaluate at" + health + "out of " + workOutDays + "on the health scale." + "\nIt is" + powerUp + "that you are read to power up your workout!");
+        System.out.println("You evaluate at" + health + "out of " + workOutDays + "on the health scale." + "\nIt is" + powerUp + "that you are ready to power up your workout!");
 
     }
 }
